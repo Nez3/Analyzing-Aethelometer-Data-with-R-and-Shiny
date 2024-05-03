@@ -17,7 +17,7 @@ The provided code reads data from a CSV file containing black carbon concentrati
 The server logic generates various plots based on user inputs, including histograms and line plots showing black carbon concentration over time. Additionally, the code calculates and displays the average diurnal variation of black carbon concentration.
 
 ## Visualization output
-![logo](https://github.com/Nez3/Analyzing-Aethelometer-Data-with-R-and-Shiny/blob/main/output_dashboard.png?raw=true)
+![logo](https://github.com/Nez3/Analyzing-Aethelometer-Data-with-R-and-Shiny/blob/main/output_dashboard_BC.png?raw=true)
 
 ## Analysis Benefits
 
