@@ -28,7 +28,7 @@ data <- data %>% filter(BC6!=0)
 ui <- fluidPage(
   
   # App title ----
-  titlePanel("Shiny - First Interactive Visualization Example"),
+  titlePanel("Interactive dashboard Black cardon data analysis"),
   
   # Sidebar layout with input and output definitions ----
   sidebarLayout(
