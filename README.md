@@ -16,6 +16,9 @@ The provided code reads data from a CSV file containing black carbon concentrati
 
 The server logic generates various plots based on user inputs, including histograms and line plots showing black carbon concentration over time. Additionally, the code calculates and displays the average diurnal variation of black carbon concentration.
 
+## Visualization output
+![logo] (https://github.com/Nez3/Analyzing-Aethelometer-Data-with-R-and-Shiny/blob/main/output_dashboard.png?raw=true)
+
 ## Analysis Benefits
 
 This analysis provides insights into the variation of black carbon concentration in the air over time, helping stakeholders such as environmental agencies, policymakers, and researchers to understand patterns and trends in air pollution. By visualizing the data interactively, users can explore different aspects of black carbon concentration and its relationship with time and other variables.
